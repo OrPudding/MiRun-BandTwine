@@ -1,0 +1,55 @@
+{
+  "item": {
+    "name": "粗粮跑路网",
+    "description": "粗粮跑路网 移植VelaOS版\n原作者：酷安 @贝利亚超级无敌大王\n本作品已取得原作者授权\n原作者允许本作者接受捐赠\n完美适配小米手环8p/9/9p/10\n小米watch s3/s4系列",
+    "preview": [
+      "cover.png",
+      "preview1.png",
+      "preview2.png",
+      "preview3.png",
+      "preview4.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/OrPudding/MiRun-BandTwine/tree/src",
+    "author": [
+      {
+        "name": "OrPudding",
+        "author_url": "https://github.com/OrPudding/"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.0.0",
+      "file_name": "band_moe.orpu.mirun.release.1.0.rpk"
+    },
+    "o66": {
+      "version": "1.0.0",
+      "file_name": "band_moe.orpu.mirun.release.1.0.rpk"
+    },
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "9p_moe.orpu.mirun.release.1.0.rpk"
+    },
+    "n62": {
+      "version": "1.0.0",
+      "file_name": "circle_moe.orpu.mirun.release.1.0.rpk"
+    },
+    "o62m": {
+      "version": "1.0.0",
+      "file_name": "circle_moe.orpu.mirun.release.1.0.rpk"
+    },
+    "o62": {
+      "version": "1.0.0",
+      "file_name": "circle_moe.orpu.mirun.release.1.0.rpk"
+    },
+    "o66nfc": {
+      "version": "1.0.0",
+      "file_name": "band_moe.orpu.mirun.release.1.0.rpk"
+    },
+    "o63": {
+      "version": "1.0.0",
+      "file_name": "circle_moe.orpu.mirun.release.1.0.rpk"
+    }
+  }
+}
